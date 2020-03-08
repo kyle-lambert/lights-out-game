@@ -1,0 +1,10 @@
+.Box {
+  width: 70px;
+  height: 70px;
+  background-color: rgb(49, 49, 49);
+  cursor: pointer;
+}
+
+.Box-select {
+  background-color: skyblue;
+}

@@ -1,0 +1,5 @@
+.BoxContainer {
+  padding: 2px;
+  background-color: rgb(139, 139, 139);
+  box-shadow: 0 0 60px 20px rgb(0, 223, 223);
+}
